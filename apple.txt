@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 10 KGs of Apple 0n 20th Aug
 12 Kgs of aple on 22nd Aug
+=======
+This change is from -master
+>>>>>>> 500bb4508405febfb9f72f7cefd774b808ed09fc
